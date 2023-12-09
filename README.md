@@ -1,16 +1,19 @@
  <h3 style="color: #328da8;">API REST</h3>
-· Apache Kafka 
-· sentry 
-· snyk 
-· aws sdk 
-· Segurança de aplicativos web 
-· Administração de sistemas Linux 
-· AWS Lambda · Amazon S3 
-· Amazon RDS 
-· Amazon EC2 
-· Amazon VPC 
-· Integração e entrega contínuas (CI/CD) 
-· Shell script
-· Docker 
-· Terraform 
-· Metodologias Agile 
+ <ul>
+<li>Apache Kafka </li>
+<li>sentry </li>
+<li>snyk </li>
+<li>aws sdk </li>
+<li>Segurança de aplicativos web </li>
+<li>Administração de sistemas Linux </li>
+<li>AWS Lambda · Amazon S3 </li>
+<li>Amazon RDS </li>
+<li>Amazon EC2 </li>
+<li>Amazon VPC </li>
+<li>Integração e entrega contínuas (CI/CD) </li>
+<li>Shell script</li>
+<li>Docker</li>
+<li>Terraform </li>
+<li>Metodologias Agile </li>
+ </ul>
+
